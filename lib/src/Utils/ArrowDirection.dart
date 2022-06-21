@@ -1,0 +1,3 @@
+enum ArrowDirection{
+  up,down,
+}
